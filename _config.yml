@@ -1,0 +1,18 @@
+title: Westview Arduino Club
+description: Westview Arduino Club
+#cover:
+
+github: WVarduinoclub
+
+url: https://wvarduinoclub.github.io
+
+# google analytics:
+
+plugins: [jekyll-sitemap]
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - .git*
