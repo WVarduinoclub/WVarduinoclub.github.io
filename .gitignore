@@ -1,4 +1,6 @@
-/_site/
+vendor
+.bundle
 .jekyll-cache
-Gemfile.lock
 .DS_Store
+_site
+Gemfile.lock
