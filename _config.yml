@@ -1,18 +1,7 @@
-title: Westview Arduino Club
-description: Westview Arduino Club
-#cover:
+title: Thi
 
 github: WVarduinoclub
-
+discord-link: https://discord.gg/jMveTFx5https://discord.gg/jMveTFx5
 url: https://wvarduinoclub.github.io
 
-# google analytics:
-
-plugins: [jekyll-sitemap]
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - .git*
+# Jekyll has a bug! If it crashes, try making an change to the config file and trying again.
