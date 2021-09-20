@@ -1,10 +1,12 @@
-title: Thi
+title: Thi 
 
 github: WVarduinoclub
 discord-link: https://discord.gg/jMveTFx5https://discord.gg/jMveTFx5
 G-Analytics: G-Q55Z2TBY13   #stream id = 2770079974
 
-
+url: https://wvarduinoclub.github.io
+plugins: [jekyll-sitemap]
+   
 
 # Jekyll has a bug! If it crashes, try making an change to the config file and trying again or removing
 # the gem source url 
